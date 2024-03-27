@@ -1,5 +1,6 @@
-
 # 2D Shooter RPG (name tbd)
+
+Hobby project
 
 2024.03.27:
 
