@@ -1,7 +1,5 @@
 # 2D Shooter RPG (name tbd)
 
-Hobby project
-
 2024.03.27:
 
 After my 5 and a half years of general software engineer experience I am ready to start to conquer my dream, which is becoming a videogame developer.
