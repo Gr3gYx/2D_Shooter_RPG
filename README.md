@@ -9,7 +9,7 @@ This game is an example project of mine, which I started like 2 weeks ago, and I
 In the current state there is noisemap based random terrain generation implemented and I am using Unity's PlayerInput component, therefore it is easier to implement controller and touch inputs in case of need.
 
 
-## Screenshots
+## Screenshot
 
 ![State of the game 2024-03-27](/2024-03-27%20State%20of%20the%20game.PNG?raw=true "State of the game 2024-03-27")
 
